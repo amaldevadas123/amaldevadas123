@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amaldevadas123
-- 👀 I’m interested in ... Coding 
+- 👀 I’m interested in ... Web Application developemnt and software Development.
 - 🌱 I’m currently learning ... Microsoft Dynamics 365 and other microsoft application for customization
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Microsoft Technical Consulatnt Professionals 
 - 📫 How to reach me ... amaldevadas123@gmail.com | +91-7012586589
 
 <!---
